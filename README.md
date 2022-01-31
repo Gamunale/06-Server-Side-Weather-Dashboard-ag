@@ -1,5 +1,9 @@
 # 06-Server-Side-Weather-Dashboard-ag
 
+# Links
+App link: https://gamunale.github.io/06-Server-Side-Weather-Dashboard-ag/
+Github:https://github.com/Gamunale/06-Server-Side-Weather-Dashboard-ag
+
 # Functionality
 As the user I want an app that lets me know the weather in a specific city or area. 
 Givin when I open the app I get promted with a text box and when I type in the city. 
